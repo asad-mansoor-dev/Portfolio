@@ -83,6 +83,7 @@ WX SuperApp is the ultimate mobile app platform for the workplace of the future.
 -  Native Browser Development
 -  White Label Apps Technology
 -  RxSwift, RxCocoa
+-  Third Party SDK Privacy Manifest Updates
 -  Cocoapods
 
 ## Smart TV Casting, Mirroring & Remote Apps (FireTV, LGTV)
