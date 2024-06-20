@@ -25,6 +25,39 @@ Note: I have developed clone app for same company, but below Screenshots are of 
 -  REST APIs Integration.
 -  Cocoapods (ADCountryPicker, Firebase, SkeletonView etc.)
 
+## CXApp Workspace Management App
+[`📲 Available on the App Store`](https://apps.apple.com/no/app/wx-superapp/id1644066650)
+WX SuperApp is the ultimate mobile app platform for the workplace of the future. Our Smart Workplace App is the digital front door to your business, serving as a central hub for communications, insights, and experiences.  
+
+- Worked with Philippine, China and US teams remotely, coordinated in different time zones.
+- Understanding already developed a big code base, having complex SDKs for indoor navigation using beacons and bluetooth, SSOs.
+- Custom maps for desk and rooms booking etc. 
+- Implemented Privacy Menifests Apple's WWDC 2023 update.
+- Take over on complete project within 3 months because of core team removal from project. 
+- Implemented MSAL SSO & Intune SDK for multiple clients, found and raised https://github.com/msintuneappsdk/ms-intune-app-sdk-ios/issues/389 issue in microsoft library, involved in one-on-one session for their SDK issue and solution for our app.
+- Worked on White Label product. Managed multiple clients releases. Given estimations for different client updates.
+- Resolved too many smaller bugs in code base.
+- Developed custom embedded browser experience inside app.
+- Developed user interface using SnapKit.
+- Added IDs project wide for automation.
+
+<p align="center">
+ <img src="https://github.com/asad-mansoor-dev/Portfolio/assets/44204745/47268c17-f7b4-4266-a3f3-952f28235f23" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/Portfolio/assets/44204745/17c2a0be-c9e6-4111-859d-f1b8b5fac0ed" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/Portfolio/assets/44204745/23e36c13-e9c4-445b-9654-924d375681c3" width="200"/>
+</p>
+
+**Tech Used**
+-  Core Animations
+-  Payment gateways (Credit, Debit, Apple, Tamara Payments via checkout.com )
+-  Skeleton View/Shimmer Effect on loading views. 
+-  Server Base UI
+-  E-commerce App workflow
+-  Firebase Auth/ Push Notifications
+-  Rating/ Feedback
+-  REST APIs Integration.
+-  Cocoapods (ADCountryPicker, Firebase, SkeletonView etc.)
+
 ## Karwan e Najia - Organisational App (Completely Developed by Me!)
 [`📲 Available on the App Store`](https://apps.apple.com/no/app/karwan-e-najia/id1632663020)
 
