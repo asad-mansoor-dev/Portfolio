@@ -75,15 +75,15 @@ WX SuperApp is the ultimate mobile app platform for the workplace of the future.
 </p>
 
 **Tech Used**
--  Core Animations
--  Payment gateways (Credit, Debit, Apple, Tamara Payments via checkout.com )
--  Skeleton View/Shimmer Effect on loading views. 
--  Server Base UI
--  E-commerce App workflow
--  Firebase Auth/ Push Notifications
--  Rating/ Feedback
--  REST APIs Integration.
--  Cocoapods (ADCountryPicker, Firebase, SkeletonView etc.)
+-  SnapKit
+-  GraphQL
+-  MSAL 
+-  Microsoft Intune
+-  Workplace Management Flow
+-  Native Browser Development
+-  White Label Apps Technology
+-  RxSwift, RxCocoa
+-  Cocoapods
 
 ## Smart TV Casting, Mirroring & Remote Apps (FireTV, LGTV)
 [`📲 Available on the App Store`](https://apps.apple.com/il/developer/mind-cubes-apps/)
